@@ -6,3 +6,5 @@ CreateTables.sql
   tbl_MAO002_DET
   tbl_MAO002_TRL
   
+Layout is located here:
+https://www.csscoperations.com/Internet/Cssc3.Nsf/files/MAO002_Report_Notification_v2_032912.pdf/$File/MAO002_Report_Notification_v2_032912.pdf
